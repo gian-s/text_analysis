@@ -1,5 +1,5 @@
 #Giancarlo Sirio
-#Markov Model Class
+#Model Class and Cleaning Data
 
 import math
 
